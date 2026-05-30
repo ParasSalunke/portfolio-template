@@ -45,7 +45,7 @@ Follow these steps to get a local copy up and running.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio-template.git
+git clone https://github.com/ParasSalunke/portfolio-template.git
 cd portfolio-template
 ```
 
